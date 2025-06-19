@@ -1,0 +1,130 @@
+[2025-06-18 07:14:17.679] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:14:17.682] [info] Discovered appearance 'dark'
+[2025-06-18 07:14:17.682] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:14:17.688] [info] Hyprland IPC starting
+[2025-06-18 07:14:17.692] [info] Loading persistent workspaces from Waybar config
+[2025-06-18 07:14:17.692] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:14:17.695] [warning] No batteries.
+[2025-06-18 07:14:17.696] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:14:17.703] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:14:17.723] [info] Loading persistent workspaces from Waybar config
+[2025-06-18 07:14:17.724] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:14:17.726] [warning] No batteries.
+[2025-06-18 07:14:17.728] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:14:17.729] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:14:17.736] [info] Loading persistent workspaces from Waybar config
+[2025-06-18 07:14:17.737] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:14:17.739] [warning] No batteries.
+[2025-06-18 07:14:17.741] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:14:17.743] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:14:18.132] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:14:18.132] [info] Bar configured (width: 2026, height: 40) for output: DVI-D-1
+[2025-06-18 07:14:18.132] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:14:18.132] [info] Bar configured (width: 2026, height: 40) for output: DP-1
+[2025-06-18 07:14:18.132] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:14:18.132] [info] Bar configured (width: 3440, height: 40) for output: DP-3
+[2025-06-18 07:14:27.751] [info] Bar configured (width: 2024, height: 40) for output: DVI-D-1
+[2025-06-18 07:14:27.784] [info] Bar configured (width: 2024, height: 40) for output: DP-1
+[2025-06-18 07:14:52.886] [info] Bar configured (width: 2026, height: 40) for output: DVI-D-1
+[2025-06-18 07:14:52.917] [info] Bar configured (width: 2026, height: 40) for output: DP-1
+[2025-06-18 07:14:57.913] [info] Bar configured (width: 2024, height: 40) for output: DVI-D-1
+[2025-06-18 07:14:57.943] [info] Bar configured (width: 2024, height: 40) for output: DP-1
+[2025-06-18 07:15:00.003] [info] Bar configured (width: 2022, height: 40) for output: DVI-D-1
+[2025-06-18 07:15:00.004] [info] Bar configured (width: 2022, height: 40) for output: DP-1
+[2025-06-18 07:15:18.659] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:15:18.662] [info] Discovered appearance 'dark'
+[2025-06-18 07:15:18.662] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:15:18.666] [info] Hyprland IPC starting
+[2025-06-18 07:15:18.668] [info] Loading persistent workspaces from Waybar config
+[2025-06-18 07:15:18.668] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:15:18.670] [warning] No batteries.
+[2025-06-18 07:15:18.672] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:15:18.677] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:15:18.699] [info] Loading persistent workspaces from Waybar config
+[2025-06-18 07:15:18.699] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:15:18.701] [warning] No batteries.
+[2025-06-18 07:15:18.703] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:15:18.704] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:15:18.714] [info] Loading persistent workspaces from Waybar config
+[2025-06-18 07:15:18.714] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:15:18.716] [warning] No batteries.
+[2025-06-18 07:15:18.717] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:15:18.719] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:15:19.119] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:15:19.119] [info] Bar configured (width: 1988, height: 40) for output: DVI-D-1
+[2025-06-18 07:15:19.123] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:15:19.123] [info] Bar configured (width: 1988, height: 40) for output: DP-1
+[2025-06-18 07:15:19.123] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:15:19.123] [info] Bar configured (width: 3440, height: 40) for output: DP-3
+[2025-06-18 07:15:28.689] [info] Bar configured (width: 1989, height: 40) for output: DVI-D-1
+[2025-06-18 07:15:28.719] [info] Bar configured (width: 1989, height: 40) for output: DP-1
+[2025-06-18 07:15:33.749] [info] Bar configured (width: 1988, height: 40) for output: DVI-D-1
+[2025-06-18 07:15:33.782] [info] Bar configured (width: 1988, height: 40) for output: DP-1
+[2025-06-18 07:15:38.676] [info] Bar configured (width: 1986, height: 40) for output: DVI-D-1
+[2025-06-18 07:15:38.721] [info] Bar configured (width: 1986, height: 40) for output: DP-1
+[2025-06-18 07:15:43.691] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:15:43.694] [info] Discovered appearance 'dark'
+[2025-06-18 07:15:43.694] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:15:43.694] [error] style.css:4:15unknown value for property
+[2025-06-18 07:16:05.602] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:16:05.604] [info] Discovered appearance 'dark'
+[2025-06-18 07:16:05.604] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:16:05.604] [error] style.css:4:2Expected semicolon
+[2025-06-18 07:16:11.554] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:16:11.557] [info] Discovered appearance 'dark'
+[2025-06-18 07:16:11.557] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:16:11.558] [error] style.css:4:2Expected semicolon
+[2025-06-18 07:23:42.954] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:23:42.957] [info] Discovered appearance 'dark'
+[2025-06-18 07:23:42.957] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:23:42.961] [info] Hyprland IPC starting
+[2025-06-18 07:23:42.963] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:23:42.965] [warning] No batteries.
+[2025-06-18 07:23:42.966] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:23:42.972] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:23:42.989] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:23:42.990] [warning] No batteries.
+[2025-06-18 07:23:42.992] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:23:42.993] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:23:42.999] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:23:43.001] [warning] No batteries.
+[2025-06-18 07:23:43.002] [warning] module backlight: Disabling module "backlight", No backlight found
+[2025-06-18 07:23:43.004] [warning] Timezone: Asia/Chengdu. std::chrono::tzdb: cannot locate zone: Asia/Chengdu
+[2025-06-18 07:23:43.370] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:23:43.370] [info] Bar configured (width: 1200, height: 40) for output: DVI-D-1
+[2025-06-18 07:23:43.370] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:23:43.370] [info] Bar configured (width: 1920, height: 40) for output: DP-1
+[2025-06-18 07:23:43.370] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:23:43.370] [info] Bar configured (width: 3440, height: 40) for output: DP-3
+[2025-06-18 07:35:22.895] [info] Using configuration file /home/axle182/.config/waybar/config.jsonc
+[2025-06-18 07:35:22.897] [info] Discovered appearance 'dark'
+[2025-06-18 07:35:22.897] [info] Using CSS file /home/axle182/.config/waybar/style.css
+[2025-06-18 07:35:22.902] [info] Hyprland IPC starting
+[2025-06-18 07:35:22.904] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:35:22.928] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:35:22.935] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:35:22.983] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:35:22.983] [info] Bar configured (width: 1200, height: 40) for output: DVI-D-1
+[2025-06-18 07:35:22.983] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:35:22.983] [info] Bar configured (width: 1920, height: 40) for output: DP-1
+[2025-06-18 07:35:22.983] [warning] Requested height: 32 is less than the minimum height: 40 required by the modules
+[2025-06-18 07:35:22.983] [info] Bar configured (width: 3440, height: 40) for output: DP-3
+[2025-06-18 07:48:00.026] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-06-18 07:48:00.027] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:48:00.027] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-06-18 07:48:00.029] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:48:00.029] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-06-18 07:48:00.030] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:50:23.544] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-06-18 07:50:23.546] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:50:23.546] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-06-18 07:50:23.547] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-18 07:50:23.548] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-06-18 07:50:23.549] [info] Loading persistent workspaces from Hyprland workspace rules
+
+(waybar:229958): GLib-GIO-WARNING **: 09:30:16.774: Received property ToolTip with type s does not match expected type (sa(iiay)ss) in the expected interface
+
+(waybar:229958): GLib-GIO-WARNING **: 09:30:16.787: Received property ToolTip with type s does not match expected type (sa(iiay)ss) in the expected interface
+
+(waybar:229958): GLib-GIO-WARNING **: 09:30:16.787: Received property ToolTip with type s does not match expected type (sa(iiay)ss) in the expected interface
+Gdk-Message: 09:31:24.931: Error reading events from display: Connection reset by peer
